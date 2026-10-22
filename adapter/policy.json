@@ -1,0 +1,10 @@
+{
+  "excludedSkills": {
+    "make-bot-ui": "Its core workflow requires Cursor routine wakeups, sender-key UI, webhooks and secret-request cards; no equivalent Qoder workflow is bundled."
+  },
+  "requiredSkills": ["poteto-mode", "setup-pstack", "poteto-help", "arena", "architect", "swarm", "tdd", "no-comments"],
+  "unsupportedCapabilities": ["Cursor routines and Benny", "Cursor Bugbot-specific controls", "Cursor Custom Modes and keyboard shortcuts", "Cursor /loop and cloud dashboard lifecycle"],
+  "mixedSkills": "Upstream mirror is byte-for-byte. Build injects the independent Qoder contract after SKILL.md frontmatter, preserving the original body. Plugin rules are not loaded by the inspected runtimes.",
+  "upstreamScripts": "Bundled as reference; never executed by sync, build, install or setup. Runtime execution requires the normal permission boundary.",
+  "helpReferences": "Upstream help may name excluded make-bot-ui or Benny. Report them as unavailable; do not fetch or install a replacement."
+}

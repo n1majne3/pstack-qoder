@@ -1,0 +1,16 @@
+{
+  "name": "pstack-qoder",
+  "version": "0.15.30",
+  "displayName": "pstack for Qoder",
+  "description": "pstack engineering workflows adapted for Qoder; configure role models with setup-pstack.",
+  "author": {
+    "name": "pstack Qoder contributors"
+  },
+  "homepage": "https://github.com/cursor/plugins/tree/main/pstack",
+  "license": "MIT",
+  "skills": "./skills",
+  "agents": [
+    "./agents/pstack-implement.md",
+    "./agents/pstack-judge.md"
+  ]
+}

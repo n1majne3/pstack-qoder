@@ -1,0 +1,11 @@
+{
+  "name": "pstack-qoder-marketplace",
+  "owner": {"name": "pstack Qoder contributors"},
+  "plugins": [
+    {
+      "name": "pstack-qoder",
+      "description": "pstack engineering skills adapted for Qoder",
+      "source": "./plugin"
+    }
+  ]
+}
