@@ -1,7 +1,7 @@
 {
   "repository": "https://github.com/cursor/plugins.git",
-  "commit": "bf0c7cd80abdbf7fe47b634978a7d1b4071f71a7",
-  "tree": "ca1f48a4c8565485745aab0e6ce6145b176c4bf8",
-  "sha256": "4fff53fc61762806720b47528f32c80d686a3eef93d90b0f0ab0c37cbc023a0f",
-  "version": "0.15.42"
+  "commit": "e1cc03121a0e71129a4fb730d7c5528a0a3e43c8",
+  "tree": "71d8e1d1d718e2149dc43b2535618064f29cba6b",
+  "sha256": "33447f8bd6246fb42c1ebbad5391c04eb93bb7bf30fe3b90931d9a800d89c67e",
+  "version": "0.15.43"
 }
