@@ -1,11 +1,11 @@
 {
   "upstream": {
     "repository": "https://github.com/cursor/plugins.git",
-    "commit": "e58dd043600587dbaf58ba315e7f2b38373eeb43",
-    "tree": "1186430edb1d16e41d644aaf155a92a09efe06ff",
-    "sha256": "5e7933c4a4832523db54046d86485d6232db34c92e1e4026c48eabf50764597f",
-    "version": "0.15.44"
+    "commit": "aaeb0ea3a0584995aa8f55ce44c6c5259414b896",
+    "tree": "b47cf6d63625b48fd77893233044849935cdae3d",
+    "sha256": "9a8133801039720d67937c4f52fb009d9b0aeb73dfe8a629b8834a9e8ac036db",
+    "version": "0.15.46"
   },
-  "payloadSha256": "0359400847302e3b3a995dbe917887ee1a892fd8be5542018f395bf02587f973",
-  "release": "v0.15.44+035940084730"
+  "payloadSha256": "2f30d41e9d4c6a640f0ef8694c818a69d71df0eef439bbe6d47b10858c7985a3",
+  "release": "v0.15.46+2f30d41e9d4c"
 }

@@ -1,6 +1,6 @@
 {
   "name": "pstack-qoder",
-  "version": "0.15.44",
+  "version": "0.15.46",
   "displayName": "pstack for Qoder",
   "description": "pstack engineering workflows adapted for Qoder; configure role models with setup-pstack.",
   "author": {
